@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+.border{
+    width: 100%;
+}
+.none{
+    display: none;
+}
+
+button{
+   border: none;
+    
+}
